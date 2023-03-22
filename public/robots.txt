@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://personalblog55.herokuapp.com/sitemap.xml
